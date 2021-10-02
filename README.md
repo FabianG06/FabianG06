@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @FabianG06
 - 👀 I’m interested in ...Ser Programador 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me :@fabianguevara16
 
 <!---
 FabianG06/FabianG06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
